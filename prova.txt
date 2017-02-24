@@ -6,6 +6,14 @@ test 2     ho modificato
 
 modifica Tomas_2
 
+
 modifica Tomas_3
  
 modifica ancora
+=======
+Non mi piace la modifica di Tomas
+>>>>>>> e156ee91a038eaa9d481e29bef9747f7ed61d5f8
+
+
+
+git git git git git 
